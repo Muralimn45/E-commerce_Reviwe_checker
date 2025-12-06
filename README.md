@@ -110,3 +110,5 @@ The scraper is designed to be robust against Amazon's anti-bot measures:
 -----
 
 I can also help you draft the content for the `amazon_reviews_2019.csv` file if you need sample data or have any questions about the data format.
+
+RESULTS : <img width="1917" height="860" alt="Image" src="https://github.com/user-attachments/assets/013991b2-236e-40d4-836b-88520aa95500" />
