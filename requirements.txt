@@ -1,0 +1,8 @@
+# requirements.txt
+pandas
+numpy
+scikit-learn
+nltk
+Flask
+Flask-CORS
+scrapy

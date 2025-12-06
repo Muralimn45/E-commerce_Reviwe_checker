@@ -1,0 +1,70 @@
+[
+    {
+        "text": "This product is absolutely amazing! Changed my life. Highly recommend to everyone.",
+        "label": 1
+    },
+    {
+        "text": "I bought this last week, and it stopped working after two days. Terrible quality. Do not waste your money.",
+        "label": 0
+    },
+    {
+        "text": "WOW! Best gadget ever made. Must buy! 5 stars!",
+        "label": 1
+    },
+    {
+        "text": "Delivery was late, but the item itself was exactly as described. 3/5 stars.",
+        "label": 0
+    },
+    {
+        "text": "I am so impressed with the seller's responsiveness and the quality. Will definitely purchase again.",
+        "label": 0
+    },
+    {
+        "text": "If you don't buy this, you are missing out! It is simply the greatest purchase of the year.",
+        "label": 1
+    },
+    {
+        "text": "Ordered the wrong size, but the return process was smooth and efficient. Good customer service.",
+        "label": 0
+    },
+    {
+        "text": "This is a must-have item. The packaging was lovely and the product is top-notch.",
+        "label": 1
+    },
+    {
+        "text": "I received a refurbished unit instead of a new one. Very disappointed with the false advertising.",
+        "label": 0
+    },
+    {
+        "text": "The item description was misleading, and the functionality is poor. I regret this purchase.",
+        "label": 0
+    },
+    {
+        "text": "Seriously, the best. Cannot find any faults. Perfection!",
+        "label": 1
+    },
+    {
+        "text": "My family uses this daily now. Solid, reliable, and a great investment.",
+        "label": 0
+    },
+    {
+        "text": "Five stars for the seller! Their product is incredibly high-quality and worth every penny.",
+        "label": 1
+    },
+    {
+        "text": "It broke within a week. Contacted support but haven't heard back. A total rip-off.",
+        "label": 0
+    },
+    {
+        "text": "A brilliant design and highly effective tool. Zero complaints.",
+        "label": 0
+    },
+    {
+        "text": "Unbelievable value for money. Stop thinking and just purchase it now!",
+        "label": 1
+    },
+    {
+        "text": "The battery life is much shorter than advertised. That is the only downside.",
+        "label": 0
+    }
+]

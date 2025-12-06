@@ -1,0 +1,17 @@
+{
+    "status": "success",
+    "total_reviews": 20,
+    "results": [
+        {
+            "review": "The product arrived on time and was in perfect condition.",
+            "prediction": "LEGITIMATE",
+            "fake_probability": 0.2135
+        },
+        {
+            "review": "This company is a scam! Absolute trash service.",
+            "prediction": "FAKE",
+            "fake_probability": 0.8871
+        }
+        // ... more reviews
+    ]
+}
