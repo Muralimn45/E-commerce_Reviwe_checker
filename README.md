@@ -1,7 +1,4 @@
-# E-commerce_Reviwe_checker
-
-Here is a comprehensive README for your GitHub repository, based on the analysis of your "E-Commerce Fake Review Detector" project files.
-
+# E-Commerce Fake Review Detector
 -----
 
 # 🛡️ E-Commerce Fake Review Detector
@@ -108,7 +105,5 @@ The scraper is designed to be robust against Amazon's anti-bot measures:
   * It handles **pagination** to collect reviews across multiple pages (up to `MAX_PAGES`).
 
 -----
-
-I can also help you draft the content for the `amazon_reviews_2019.csv` file if you need sample data or have any questions about the data format.
 
 RESULTS : <img width="1917" height="860" alt="Image" src="https://github.com/user-attachments/assets/013991b2-236e-40d4-836b-88520aa95500" />
